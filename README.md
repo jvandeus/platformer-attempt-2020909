@@ -1,5 +1,5 @@
 # Outline:
-The goal of this project is to create a very basic base with witch to start other projects. Ideally All the assests will be bland placeholder assets that can be swapped out with whatever creative vision a newer project may see fit. As much as possible, this project should get most work that is NOT asset creation out of way to make it easier to get a collaborative metroidvania-esc project off the ground for when artists get involved.
+The goal of this project is to create a very basic platformer to just get something created, and expand on it from there. This project will be made in unity. There isn't much decided about this game for now beyond this.
 
 ## Phase 1 Features&Goals
 ### Currently in Development
